@@ -282,7 +282,7 @@
       <HintPath>$(PluginsPath)\Utilla\Utilla.dll</HintPath>
     </Reference>
 	<Reference Include="GorillaXS">
-      <HintPath>$(PluginsPath)\GorillaXS\GorillaXS.dll</HintPath>
+      <HintPath>$(PluginsPath)\GorillaXS.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
       <HintPath>$(GameAssemblyPath)\websocket-sharp.dll</HintPath>

@@ -1,8 +1,6 @@
 ﻿using BepInEx;
-using System;
-using GorillaXS;
 
-namespace XSBasics
+namespace GorillaXS.Basics
 {
     [BepInPlugin(PluginInfo.GUID, PluginInfo.Name, PluginInfo.Version)]
     public class XSBasicsPlugin : BaseUnityPlugin
